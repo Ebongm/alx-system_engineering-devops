@@ -1,1 +1,1 @@
-My name is Betty
+‘A script that creates an empty file called hello’
